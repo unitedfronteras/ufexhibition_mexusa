@@ -116,3 +116,4 @@ After the last step the terminal will provide you with a localhost URL for you t
   ```
 
  When the demo site is serving correctly you're ready to swap in your own content and configuration to make your own exhibition site.
+# exhibitionmexusa
