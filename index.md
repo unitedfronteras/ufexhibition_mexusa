@@ -8,9 +8,12 @@ banner:
   height: '500px'
 ---
 
-__Wax__ is a [minimal computing](http://go-dh.github.io/mincomp/) project for producing digital exhibitions focused on longevity, low costs, and flexibility. Our underlying technology is made to learn and to teach, and can produce beautifully rendered, high-quality image collections and scholarly exhibits. To start using Wax, please see our [documentation](https://minicomp.github.io/wiki/#/wax/) for installation instructions and more.
+__Exhibition Mexico-USA__
 
-The collection items in this demo are from The Museum of Islamic Art, Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+This exhibition is a window to United Fronteras, a digital directory of projects documenting contacts and divergences in the Mexico and the United States border region from pre-colonial times to the 21st century. This digital cultural record shows this area from different perspectives, which include literature, archives, art, oral histories, music, etc., and compiles active and inactive platforms that make use of digital and/or technological components.
+
+The curatorship of this exhibition is the result of the collaborative work of academics from different universities in Mexico and the United States. Each project included in this index has the approval of its creators or the data collected is based on information provided directly from the projects’ sites. It should be noted that there were projects that were not included since their authors/institution did not approve their incorporation, however, this does not mean that United Fronteras excludes them or is not aware of this material/topics as part of the Mexico-United States borderlands’ digital cultural record. Likewise, United Fronteras is constantly identifying and open for the incorporation of projects that comply with the established protocols.
+
 
 ### Browse the Collection
 
