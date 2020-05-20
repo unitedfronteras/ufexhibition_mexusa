@@ -11,3 +11,5 @@ permalink: '/credits/'
 3 **Narrative Team** (Carolina Alonso, Sylvia Fernández, and Verónica Romero)
 
 4 **Technical Team** (Sylvia Fernández, Alex Gil, Verónica Romero, Rubria Rocha, and Annette Zapata)
+
+5 **Advisory Team** (Alex Gil, Roopika Risam, Institute for Digital Research in the Humanities (IDRH))
