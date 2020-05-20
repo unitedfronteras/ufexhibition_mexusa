@@ -30,11 +30,11 @@ Risam, Roopika. <em>New Digital Worlds: Postcolonial Digital Humanities in Theor
 
 **Works Consulted**
 
-Ahmed, Manan, et al. <em>Torn Apart/Separados</em>. Accessed May 13, 2020.
+<em>Torn Apart/Separados</em>. Ahmed, Manan, et al. Accessed May 13, 2020.
    [https://xpmethod.plaintext.in/torn-apart/volume/1/](https://xpmethod.plaintext.in/torn-apart/volume/1/)
 
-Álvarez, Maira and Sylvia Fernández. <em>Borderlands Archives Cartography</em>. Accessed May 13,  
-   2020. [https://www.bacartography.org/](https://www.bacartography.org/)
+Álvarez, Maira and Sylvia Fernández. <em>Borderlands Archives Cartography</em>. Accessed May 13, 2020.  
+   [https://www.bacartography.org/](https://www.bacartography.org/)
 
 Gil, Alexander. <em>Around DH in 80 Days</em>. Accessed May 13, 2020. [http://arounddh.elotroalex.com/](http://arounddh.elotroalex.com/)
 
