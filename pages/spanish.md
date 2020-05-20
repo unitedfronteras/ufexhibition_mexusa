@@ -11,7 +11,7 @@ United Fronteras is a project in development; its next stage consists of the pub
 
 **Contact information**
 
-unitedfronteras@gmail.com
+unitedfronteras[at]gmail[dot]com
 
 https://unitedfronteras.github.io/
 
