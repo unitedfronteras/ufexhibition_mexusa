@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Spanish
-permalink: /reuse/
+permalink: /spanish/
 collection: united
 ---
 

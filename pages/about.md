@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mexico-USA
-permalink: /about/
+permalink: /mexico-usa/
 ---
 
 This exhibition is a window to United Fronteras, a digital directory of projects documenting contacts and divergences in the Mexico and the United States border region from pre-colonial times to the 21st century. This digital cultural record shows this area from different perspectives, which include literature, archives, art, oral histories, music, etc., and compiles active, inactive, and in development platforms that make use of digital and/or technological components.
@@ -29,12 +29,12 @@ Risam, Roopika. New Digital Worlds: Postcolonial Digital Humanities in Theory, P
 **Work Consulted**
 
 Ahmed, Manan, et al. Torn Apart/Separados. Accessed May 13. 2020.
-   https://xpmethod.plaintext.in/torn-apart/volume/1/
+   [link](https://xpmethod.plaintext.in/torn-apart/volume/1/)
 
 Álvarez, Maira and Sylvia Fernández. Borderlands Archives Cartography. Accessed May 13,  
-   2020. https://www.bacartography.org/
+   2020. [link](https://www.bacartography.org/)
 
-Gil, Alexander. Around DH in 80 Days. Accessed May 13, 2020. http://arounddh.elotroalex.com/
+Gil, Alexander. Around DH in 80 Days. Accessed May 13, 2020. [link](http://arounddh.elotroalex.com/)
 
 Losh, Elizabeth and Jacqueline Wernimont, editors. Bodies of Information: Intersectional
    Feminism and Digital Humanities. “Introduction.” University of Minnesota Press, 2018.

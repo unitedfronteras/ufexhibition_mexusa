@@ -8,7 +8,7 @@ banner:
   height: '500px'
 ---
 
-__Exhibition Mexico-USA__
+## Exhibition Mexico-USA
 
 This exhibition is a window to United Fronteras, a digital directory of projects documenting contacts and divergences in the Mexico and the United States border region from pre-colonial times to the 21st century. This digital cultural record shows this area from different perspectives, which include literature, archives, art, oral histories, music, etc., and compiles active and inactive platforms that make use of digital and/or technological components.
 
