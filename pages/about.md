@@ -12,7 +12,7 @@ It is a digital cultural record that takes advantage of the principles of minima
 
 The goal is to investigate the critical work carried out in this complex region and create alternative spaces that provide resources and information about this area. In addition, it seeks to redraw the border by opposing negative representations of its territories, communities and cultures.
 
-**Work Cited**
+**Works Cited**
 
 Anzaldúa, Gloria. Borderlands/ La Frontera: The New Mestiza, 4th ed., Aunt Lute
    Books, 2012.
@@ -26,15 +26,15 @@ Moraga, Cherríe and Gloria Anzaldúa. This Bridge Called My Back: Writings by R
 Risam, Roopika. New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis,
    and Pedagogy. Northwestern University Press, 2019.
 
-**Work Consulted**
+**Works Consulted**
 
 Ahmed, Manan, et al. Torn Apart/Separados. Accessed May 13. 2020.
-   [link](https://xpmethod.plaintext.in/torn-apart/volume/1/)
+   [https://xpmethod.plaintext.in/torn-apart/volume/1/](https://xpmethod.plaintext.in/torn-apart/volume/1/)
 
 Álvarez, Maira and Sylvia Fernández. Borderlands Archives Cartography. Accessed May 13,  
-   2020. [link](https://www.bacartography.org/)
+   2020. [https://www.bacartography.org/](https://www.bacartography.org/)
 
-Gil, Alexander. Around DH in 80 Days. Accessed May 13, 2020. [link](http://arounddh.elotroalex.com/)
+Gil, Alexander. Around DH in 80 Days. Accessed May 13, 2020. [http://arounddh.elotroalex.com/](http://arounddh.elotroalex.com/)
 
 Losh, Elizabeth and Jacqueline Wernimont, editors. Bodies of Information: Intersectional
    Feminism and Digital Humanities. “Introduction.” University of Minnesota Press, 2018.
