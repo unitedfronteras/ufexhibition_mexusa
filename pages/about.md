@@ -12,6 +12,8 @@ It is a digital cultural record that takes advantage of the principles of minima
 
 The goal is to investigate the critical work carried out in this complex region and create alternative spaces that provide resources and information about this area. In addition, it seeks to redraw the border by opposing negative representations of its territories, communities and cultures.
 
+**How to cite the project:** <em>UnitedFronteras</em>. https://unitedfronteras.github.io/. Accessed [DATE].
+
 **Works Cited**
 
 Anzaldúa, Gloria. <em>Borderlands/ La Frontera: The New Mestiza</em>, 4th ed., Aunt Lute
