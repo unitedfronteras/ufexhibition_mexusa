@@ -4,7 +4,7 @@ title: Documentation
 permalink: /documentation/
 ---
 
-**Phase one**
+**Phase one (Mexico-United States Borderland)**
 
 The creation of this exhibition met the following steps:
 
