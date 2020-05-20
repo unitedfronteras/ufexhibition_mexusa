@@ -101,24 +101,26 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Wax'
-        link: '/about/'
+      - label: 'Mexico-USA'
+        link: '/mexico-usa/'
       - label: 'Documentation'
-        link: 'https://minicomp.github.io/wiki/wax/'
+        link: '/documentation/'
       - label: 'Credits'
         link: '/credits/'
   - label: 'Exhibits'
     sub:
-      - label: 'Inline Parallax Image'
+      - label: 'Active'
         link: '/exhibits/a/'
-      - label: 'Inline Image References'
+      - label: 'Inactive'
         link: '/exhibits/b/'
+      - label: 'In-Progress'
+        link: '/exhibits/c/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Reuse'
-    link: '/reuse/'
+  - label: 'Spanish'
+    link: '/spanish/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
