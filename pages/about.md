@@ -14,30 +14,30 @@ The goal is to investigate the critical work carried out in this complex region 
 
 **Works Cited**
 
-Anzaldúa, Gloria. Borderlands/ La Frontera: The New Mestiza, 4th ed., Aunt Lute
+Anzaldúa, Gloria. <em>Borderlands/ La Frontera: The New Mestiza</em>, 4th ed., Aunt Lute
    Books, 2012.
 
-Castillo, Debra A. and María Socorro Tabuenca Córdoba. Border Women: Writing from
-   La Frontera. University of Minnesota Press, 2002.
+Castillo, Debra A. and María Socorro Tabuenca Córdoba. <em>Border Women: Writing from
+   La Frontera</em>. University of Minnesota Press, 2002.
 
-Moraga, Cherríe and Gloria Anzaldúa. This Bridge Called My Back: Writings by Radical
-   Women of Color, 4th ed, State University of New York Press, 2015.
+Moraga, Cherríe and Gloria Anzaldúa. <em>This Bridge Called My Back: Writings by Radical
+   Women of Color</em>, 4th ed, State University of New York Press, 2015.
 
-Risam, Roopika. New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis,
-   and Pedagogy. Northwestern University Press, 2019.
+Risam, Roopika. <em>New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis,
+   and Pedagogy</em>. Northwestern University Press, 2019.
 
 **Works Consulted**
 
-Ahmed, Manan, et al. Torn Apart/Separados. Accessed May 13. 2020.
+Ahmed, Manan, et al. <em>Torn Apart/Separados</em>. Accessed May 13, 2020.
    [https://xpmethod.plaintext.in/torn-apart/volume/1/](https://xpmethod.plaintext.in/torn-apart/volume/1/)
 
-Álvarez, Maira and Sylvia Fernández. Borderlands Archives Cartography. Accessed May 13,  
+Álvarez, Maira and Sylvia Fernández. <em>Borderlands Archives Cartography</em>. Accessed May 13,  
    2020. [https://www.bacartography.org/](https://www.bacartography.org/)
 
-Gil, Alexander. Around DH in 80 Days. Accessed May 13, 2020. [http://arounddh.elotroalex.com/](http://arounddh.elotroalex.com/)
+Gil, Alexander. <em>Around DH in 80 Days</em>. Accessed May 13, 2020. [http://arounddh.elotroalex.com/](http://arounddh.elotroalex.com/)
 
-Losh, Elizabeth and Jacqueline Wernimont, editors. Bodies of Information: Intersectional
-   Feminism and Digital Humanities. “Introduction.” University of Minnesota Press, 2018.
+Losh, Elizabeth and Jacqueline Wernimont, editors. <em>Bodies of Information: Intersectional
+   Feminism and Digital Humanities</em>. “Introduction.” University of Minnesota Press, 2018.
 
-Noble, Safiya Umoja. Algorithms of Oppression: How Search Engines Reinforce Racism.   
-New York University Press, 2018.
+Noble, Safiya Umoja. <em>Algorithms of Oppression: How Search Engines Reinforce Racism</em>.   
+   New York University Press, 2018.
