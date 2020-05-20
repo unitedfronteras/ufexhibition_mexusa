@@ -21,7 +21,7 @@
 title:            'United Fronteras'
 description:      'UF brings together active and inactive works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
 url:              'https://minicomp.github.io'
-baseurl:          '/exhibitionmxusa'
+baseurl:          '/exhibitionmexusa'
 copyright:        'Copyright 2020'
 logo:             '/assets/logo.png'
 
