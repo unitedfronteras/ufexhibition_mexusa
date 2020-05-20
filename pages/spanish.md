@@ -13,7 +13,7 @@ United Fronteras is a project in development; its next stage consists of the pub
 
 unitedfronteras[at]gmail[dot]com
 
-[https://unitedfronteras.github.io/] (https://unitedfronteras.github.io/)
+[https://unitedfronteras.github.io/](https://unitedfronteras.github.io/)
 
 #UnitedFronteras
 #BorderlandsDH
