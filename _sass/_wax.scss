@@ -57,9 +57,13 @@ header & nav bar
   min-height: 55.95px;
   position: relative;
 
+  .subheading {
+  color: $accent-light;
+  }
+
   .navbar-brand {
     font-weight: 300;
-    color: $accent-light;
+    color: $text-color;
     font-size: 2rem;
     white-space: normal;
     text-transform: uppercase;
@@ -79,9 +83,11 @@ header & nav bar
     .nav-item {
       z-index: 1000000;
       background-color: $bg-color;
+
     }
     .nav-link {
       color: $text-color;
+      font-weight: 300;
     }
     .nav-link:hover {
       color: $accent-dark;
