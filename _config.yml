@@ -19,7 +19,7 @@
 # ~> https://jekyllrb.com/docs/configuration/options/
 
 title:            'United Fronteras <span class="subheading">Exhibit</span>'
-description:      'UF brings together active and inactive works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
+description:      'The United Fronteras Exhibit brings together works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF-E offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
 url:              'https://unitedfronteras.github.io/'
 baseurl:          '/ufexhibition_mexusa'
 copyright:        'Copyright 2020'
@@ -101,10 +101,8 @@ search:
 menu:
   - label: 'About'
     sub:
-      - label: 'Mexico-USA'
-        link: '/mexico-usa/'
-      - label: 'Documentation'
-        link: '/documentation/'
+      - label: 'About the Exhibit'
+        link: '/about/'
       - label: 'Credits'
         link: '/credits/'
   # - label: 'Exhibits'
