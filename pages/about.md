@@ -48,10 +48,10 @@ There are some projects in development such as *Native Texans: The Coahuiltecan 
 ---
 
 ### How to cite the project
-*UnitedFronteras*. 2020. https://unitedfronteras.github.io/. Accessed [DATE].
+*United Fronteras*. 2020. https://unitedfronteras.github.io/. Accessed [DATE].
 
 ### How to cite the exhibit
-"United Fronteras Exhibit." *UnitedFronteras*.2020. https://unitedfronteras.github.io/ufexhibition_mexusa/. Accessed [DATE].
+"United Fronteras Exhibit." *United Fronteras*. 2020. https://unitedfronteras.github.io/ufexhibition_mexusa/. Accessed [DATE].
 
 ---
 
