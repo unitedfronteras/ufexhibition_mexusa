@@ -107,19 +107,19 @@ menu:
         link: '/documentation/'
       - label: 'Credits'
         link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Active'
-        link: '/exhibits/a/'
-      - label: 'Inactive'
-        link: '/exhibits/b/'
-      - label: 'In-Progress'
-        link: '/exhibits/c/'
+  # - label: 'Exhibits'
+  #   sub:
+  #     - label: 'Active'
+  #       link: '/exhibits/a/'
+  #     - label: 'Inactive'
+  #       link: '/exhibits/b/'
+  #     - label: 'In-Progress'
+  #       link: '/exhibits/c/'
   - label: 'Browse'
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
-  - label: 'Spanish'
+  - label: 'Español'
     link: '/spanish/'
 
 # --------------------------------------------------------------

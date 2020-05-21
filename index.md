@@ -8,11 +8,11 @@ banner:
   height: '500px'
 ---
 
-## Exhibition Mexico-USA
+## The Exhibit
 
-This exhibition is a window to United Fronteras, a digital directory of projects documenting contacts and divergences in the Mexico and the United States border region from pre-colonial times to the 21st century. This digital cultural record shows this area from different perspectives, which include literature, archives, art, oral histories, music, etc., and compiles active and inactive platforms that make use of digital and/or technological components.
+This exhibit is a window to United Fronteras, a digital directory of projects documenting contacts and divergences in the Mexico and the United States border region from pre-colonial times to the 21st century. This digital cultural record shows this area from different perspectives, which include literature, archives, art, oral histories, music, etc., and compiles active and inactive platforms that make use of digital and/or technological components.
 
-The curatorship of this exhibition is the result of the collaborative work of academics from different universities in Mexico and the United States. Each project included in this index has the approval of its creators or the data collected is based on information provided directly from the projects’ sites. It should be noted that there were projects that were not included since their authors/institution did not approve their incorporation, however, this does not mean that United Fronteras excludes them or is not aware of this material/topics as part of the Mexico-United States borderlands’ digital cultural record. Likewise, United Fronteras is constantly identifying and open for the incorporation of projects that comply with the established protocols.
+The curation of this exhibit is the result of the collaborative work of academics from different universities in Mexico and the United States. Each project included in this index has the approval of its creators, or the data collected is based on information provided directly from the projects’ sites. It should be noted that there were projects that were not included since their authors/institution did not approve of their incorporation, however, this does not mean that United Fronteras excludes them, or is not aware of this material/topics as part of the Mexico-USA borderlands’ digital cultural record. Likewise, United Fronteras is constantly identifying and open for the incorporation of projects that comply with the established protocols.
 
 
 ### Browse the Collection
