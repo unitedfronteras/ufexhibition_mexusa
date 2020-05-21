@@ -12,7 +12,7 @@ It is a digital cultural record that takes advantage of the principles of minima
 
 The goal is to investigate the critical work carried out in this complex region and create alternative spaces that provide resources and information about this area. In addition, it seeks to redraw the border by opposing negative representations of its territories, communities and cultures.
 
-**How to cite the project:** <em>UnitedFronteras</em>. https://unitedfronteras.github.io/. Accessed [DATE].
+**How to cite the project:** <em>UnitedFronteras</em>.2020. https://unitedfronteras.github.io/. Accessed [DATE].
 
 **Works Cited**
 
@@ -30,10 +30,10 @@ Risam, Roopika. <em>New Digital Worlds: Postcolonial Digital Humanities in Theor
 
 **Works Consulted**
 
-<em>Torn Apart/Separados</em>. Ahmed, Manan, et al. Accessed May 13, 2020.
+<em>Torn Apart/Separados</em>.2018. Accessed May 13, 2020.
    [https://xpmethod.plaintext.in/torn-apart/volume/1/](https://xpmethod.plaintext.in/torn-apart/volume/1/)
 
-Álvarez, Maira and Sylvia Fernández. <em>Borderlands Archives Cartography</em>. Accessed May 13, 2020.  
+Álvarez, Maira and Sylvia Fernández. <em>Borderlands Archives Cartography</em>. 2017. Accessed May 13, 2020.  
    [https://www.bacartography.org/](https://www.bacartography.org/)
 
 Gil, Alexander. <em>Around DH in 80 Days</em>. Accessed May 13, 2020. [http://arounddh.elotroalex.com/](http://arounddh.elotroalex.com/)
