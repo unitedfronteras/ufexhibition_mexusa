@@ -1,12 +1,18 @@
 ---
 layout: page
 show_title: false
-banner:
-  collection: united
-  pid: obj001
-  y: 10%
-  height: '500px'
 ---
+
+<div class='wax-parallax full-width top-banner'>
+  <div class='parallax-image' style="background-image: url('{{site.baseurl}}/img/us-mex.jpg'); background-position: 0% 15%; height: 300px !important;"></div>
+
+  <div class='parallax-caption'>
+    <div class='wax-inline-container'>
+      <small>A part of the <a href='https://unitedfronteras.github.io/'>United Fronteras</a> project</small>
+    </div>
+  </div>
+  
+</div>
 
 ## The Exhibit
 

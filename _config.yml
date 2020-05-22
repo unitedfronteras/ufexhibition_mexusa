@@ -18,9 +18,9 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'United Fronteras <span class="subheading">Exhibit</span>'
+title:            'United Fronteras <span class="subheading">US-Mexico</span>'
 description:      'The United Fronteras Exhibit brings together works that leverage digital components to document the borderlands from multiple perspectives (literature, archives, art, oral histories, music, among others) from pre-colonial times to the twenty-first century. UF-E offers audiences a unique opportunity to meaningfully engage in the multidimensional layers of border regions.'
-url:              'https://unitedfronteras.github.io/'
+url:              'https://unitedfronteras.github.io'
 baseurl:          '/ufexhibition_mexusa'
 copyright:        'Copyright 2020'
 logo:             '/assets/logo.png'
@@ -104,7 +104,7 @@ menu:
       - label: 'About the Exhibit'
         link: '/about/'
       - label: 'Credits'
-        link: '/credits/'
+        link: 'https://unitedfronteras.github.io/nosotrxs/'
   # - label: 'Exhibits'
   #   sub:
   #     - label: 'Active'
@@ -131,7 +131,7 @@ footer:
       link: 'https://github.com/unitedfronteras/ufexhibition_mexusa'
     - label: 'Credits'
       link: 'https://unitedfronteras.github.io/nosotrxs/'
-    - label: 'Contact'
+    - label: 'Collaborate'
       link: 'https://unitedfronteras.github.io/collaborate/'
   logos:
     - img: '/img/logo.png'
