@@ -14,10 +14,10 @@ The goal is to investigate the critical work carried out in this complex region 
 
 This exhibit represents the culmination of our first phase. To get here we followed these steps:
 
-1. We identified projects that a) talked about the border and b) had at least one digital or technological component.
+1. We identified projects that a) talked/contained material about the border and b) had at least one digital or technological component.
 2. We created metadata for the projects based on the information provided in each project’s site. 
 3. We contacted the authors to inform them about this initiative and to request permission to publish and incorporate their projects in this exhibit.
-4. The collaborators were divided into a content team (in charge of debugging the data), a design team (responsible for the image of the page) and a technical team (in charge of the [minimal computing](http://go-dh.github.io/mincomp/) needed to create the site).
+4. The collaborators were divided into a data team (in charge of debugging the projects' data), a narrative team (responsible for the content of the page) and a technical team (in charge of the [minimal computing](http://go-dh.github.io/mincomp/) needed to create the site).
 
 In our next phase we are working on a number of experiments to unmap the borderlands using our data. Stay tuned!
 
