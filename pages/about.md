@@ -27,7 +27,7 @@ In this exhibit we divide projects into three categories: Active, Inactive and I
 
 ### Active Projects
 
-Active projects are considered to be those that are currently available to the public on any Internet platform, including social networks, and that are continuously nourished or updated, but that have reached a certain level of stability. Among them are: *NativeLand*, *Border Perspective*, *Mexican Genealogy*, *Ecos del Desierto* or *Remezcla* and many others.
+Active projects are considered to be those that are currently available to the public on any Internet platform, including social networks, and that are continuously nourished or updated, but that have reached a certain level of stability. Among them are: *NativeLand*, *Border Perspective*, *Mexican Genealogy*, *Ecos del Desierto* or *NetaRGV* and many others.
 
 
 {% include inline_image.html collection='united' pid='obj081' %}
@@ -51,7 +51,7 @@ There are some projects in development such as *Native Texans: The Coahuiltecan 
 *United Fronteras*. 2020. https://unitedfronteras.github.io/. Accessed [DATE].
 
 ### How to cite the exhibit
-"United Fronteras Exhibit." *United Fronteras*. 2020. https://unitedfronteras.github.io/ufexhibition_mexusa/. Accessed [DATE].
+"United Fronteras Mex-USA Exhibit." *United Fronteras*. 2020. https://unitedfronteras.github.io/ufexhibition_mexusa/. Accessed [DATE].
 
 ---
 
