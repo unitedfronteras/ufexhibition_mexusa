@@ -17,7 +17,9 @@ This type of digital activism represents resistance journalism, which is “a ty
 
 Moreover, ehese projects use storytelling as a weapon to contest the monolithic narratives of the border and grow the community’s awareness of the world to create change, solidarity and consciousness at a local and global level.  As Cherríe Moraga notes, 
 one of our oldest written traditions resides on the indigenous ground on the spoken word . . . MeXicanas and MeXicanos have always told stories aloud: as weapons against traíciones, as historical accounts and prophetic warnings, as preachers and teachers against wrongdoing, as songs of celebration, as exhalations of laughter, as prayer in the presence of the divine. And through this storytelling one’s awareness of the world and its meanings grows and changes. (“Prólogo”)
-The way these creators use DH is opening the path for communities to share their own stories, a way to understand Borderlands Digital Humanities. My hope is that the border projects collected in *United Fronteras*, [in its 1st phase of the Mexico-United States border](https://unitedfronteras.github.io/projects/), inspires inhabitants of the border regions to create their own projects to show the world what their piece of home is like, continuing the story telling tradition with the new technologies available to us.
+The way these creators use DH is opening the path for communities to share their own stories, a way to understand Borderlands Digital Humanities. 
+
+**My hope is that the border projects collected in *United Fronteras*, [in its 1st phase of the Mexico-United States border](https://unitedfronteras.github.io/projects/), inspires inhabitants of the border regions to create their own projects to show the world what their piece of home is like, continuing the story telling tradition with the new technologies available to us.**
 
 
 ### References
