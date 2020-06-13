@@ -117,6 +117,16 @@ menu:
     link: '/collection/'
   - label: 'Search'
     link: '/search/'
+  - label: 'Reflections'
+    sub:
+      - label: 'Essential Resource - Nathan Ellstrand'
+        link: '/reflections/ellstrand/'
+      - label: 'Herida Abierta - Jorge Gómez'
+        link: '/reflections/gomez/'
+      - label: 'Participatory Design - Laura Gonzales'
+        link: '/reflections/gonzales/'
+      - label: 'Border Stories - Annette Zapata'
+        link: '/reflections/zapata/'
   - label: 'Español'
     link: '/spanish/'
 
