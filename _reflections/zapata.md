@@ -4,8 +4,7 @@ title: "Border Stories, Online Spaces: Digital Activism and Resistance Journalis
 permalink: /reflections/zapata/
 ---
 
-By Annette Zapata, 
-PhD Candidate and Teaching Assistant, Hispanic Studies Department, University of Houston
+*By Annette Zapata, PhD Candidate and Teaching Assistant, Hispanic Studies Department, University of Houston*
 
 I grew up on the US-Mexico border, in the Rio Grande Valley-Tamaulipas area. My world was surrounded by family, trips to the other side, great food, bilingual conversation. But it also involved surveillance, something that was so normalized that I didn’t question why I had to tell the uniformed people I was a citizen just passing through. I wasn’t aware of how others saw the border until I left my sheltered home for college. *United Fronteras* is a space that allows for all aspects of the US-Mexico border to be seen, including my region that, prior to the recent push for ecological destruction with a wall was most known for its spring break destination, South Padre Island, (for information read: [Article 1](https://www.borderreport.com/hot-topics/the-border-wall/national-heritage-designation-could-alter-plans-to-expedite-border-wall-construction-in-starr-county/), [Article 2](https://www.cnet.com/news/border-wall-now-under-construction-could-kill-off-birds-ocelots-and-a-church/)).This digital humanities project brings together projects that provide various perspectives of the border regions, their histories, communities, environment and politics.
 
