@@ -14,7 +14,7 @@ In this way, *United Fronteras* practices elements of both Human-Centered Design
 
 Undoubtedly, like any process, participatory design or HCD processes are fraught with mistakes and issues. As designers and digital humanists, we can never assume to really know what we mean by “multiple perspectives.” **Yet, by developing a team of feminist scholars from multiple disciplines committed to decolonization and collaboration, *United Fronteras* seeks to broaden conversations about the borderlands beyond a single perspective or academic angle. We want to illustrate and highlight the constantly shifting and evolving nature of borderland life, in all its multiplicities and tensions.** 
 
-*Laura Gonzales presented about this topic in the 2019 Digital Humanities Forum at the University of Kansas. To access the full presentation (Minute 10-17:30) visit: https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be*
+*Laura Gonzales presented about this topic in the 2019 Digital Humanities Forum at the University of Kansas. To access the full presentation (Minute 10-17:30) visit: [https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be](https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be)*
 
 **References**
 
