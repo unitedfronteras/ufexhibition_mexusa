@@ -4,7 +4,7 @@ title: "Participatory Design and Translation as Collaborative Models in United F
 permalink: /reflections/gonzales/
 ---
 
-By Laura Gonzales, Assistant Professor of Digital Writing and Cultural Rhetorics and Associate Director of TRACE Innovation Initiative, University of Florida 
+*By Laura Gonzales, Assistant Professor of Digital Writing and Cultural Rhetorics and Associate Director of TRACE Innovation Initiative, University of Florida* 
 
 Academics love to talk about borders. We talk about (and even romanticize) the “borders” between disciplines, cultures, and contexts, between languages, and even between political orientations. Yet, in many corners of academia, these academic conversations don’t always acknowledge the physical, militarized, and surveilled nature of physical borders as well as the embodied experiences of the people who navigate borderland experiences in their everyday material realities. This, to me, is the contribution that *United Fronteras* makes to both academic and community-driven discourses—a place to document physical, material, embodied borderland experiences from multiple perspectives. 
 
