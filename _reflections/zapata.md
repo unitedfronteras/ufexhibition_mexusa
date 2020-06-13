@@ -4,8 +4,6 @@ title: "Border Stories, Online Spaces: Digital Activism and Resistance Journalis
 permalink: /reflections/zapata/
 ---
 
-### Border Stories, Online Spaces: Digital Activism and Resistance Journalism through BorderlandsDH
-
 By Annette Zapata, 
 PhD Candidate and Teaching Assistant, Hispanic Studies Department, University of Houston
 
