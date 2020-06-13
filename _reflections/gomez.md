@@ -4,7 +4,7 @@ title: "Herida Abierta: Frontera Cerrada"
 permalink: /reflections/gomez/
 ---
 
-By Jorge Gomez, A first-generation Latinx immigrant who sits on the Board of Directors for Las Americas Immigrant Advocacy Center. He teaches English at El Paso Community College. 
+By Jorge Gómez, A first-generation Latinx immigrant who sits on the Board of Directors for Las Americas Immigrant Advocacy Center. He teaches English at El Paso Community College. 
 
 Cascades of soapy water slide down a dusty windshield, wiped down with a trapo. The driver of the Beemer lowers their window and tips the cleaner a few pesos, fare for la ruta back home and nothing more. Three cars ahead, an SUV slows to collect cacahuates garapiñados wrapped in plastic. A coupe seizes the moment to cut in their lane. Le pitan. For more than 10 years, these were my sights and sounds en route to school, crossing the Bridge of the Americas from Ciudad Juárez, Chihuahua, to El Paso, Texas. But then 9/11 happened. And border crossing changed. On foot or by car, commuters would now be subjected to longer wait times, racial profiling, expanded surveillance, and an increasingly militarised immigration apparatus as part of the so-called War on Terror that curtailed civil liberties. It is in this post 9/11 environs that by 2003 the Dept. of Homeland Security spawned Immigration and Customs Enforcement (ICE), an agency that would break up families by conducting raids that terrorised and traumatised already-vulnerable immigrant communities, including those in our borderland, a borderland that is among those chronicled by [*United Fronteras*](https://unitedfronteras.github.io/).   
 
