@@ -4,7 +4,6 @@ title: "Essential Resource to Understand the Mexico-United States Border Region"
 permalink: /reflections/ellstrand/
 ---
 
-### Essential Resource to Understand the Mexico-United States Border
 By Nathan Ellstrand, Ph.D. Candidate, History Department, Loyola University Chicago
 
 Borders in North America have changed and transformed over the course of centuries, from indigenous boundaries to the militarized Mexican-United States border that currently exists today. The [“Mexico-United States exhibit”](https://unitedfronteras.github.io/projects/) of [*United Fronteras*](https://unitedfronteras.github.io/) is an excellent example of a collaborative driven digital humanities project, featuring over 100 web resources from both countries which engage the changing border in different and exciting ways. 
