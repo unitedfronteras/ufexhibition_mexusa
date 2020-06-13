@@ -21,7 +21,7 @@ The way these creators use DH is opening the path for communities to share their
 
 **My hope is that the border projects collected in *United Fronteras*, [in its 1st phase of the Mexico-United States border](https://unitedfronteras.github.io/projects/), inspires inhabitants of the border regions to create their own projects to show the world what their piece of home is like, continuing the story telling tradition with the new technologies available to us.**
 
-*Annette Zapata presented about this topic in the 2019 Digital Humanities Forum at the University of Kansas. To access the full presentation (Minute 17:30-28) visit: https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be*
+*Annette Zapata presented about this topic in the 2019 Digital Humanities Forum at the University of Kansas. To access the full presentation (Minute 17:30-28) visit: [https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be](https://www.youtube.com/watch?v=0sldwGqYEcY&feature=youtu.be)*
 
 ### References
 
