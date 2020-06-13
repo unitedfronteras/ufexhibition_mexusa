@@ -64,6 +64,8 @@ kramdown:
 collections:
   exhibits:
     output: true
+  reflections:
+    output: true
   united: # name of collection
     output: true # makes sure pages are output as html files
     layout: 'united_item' # the layout for the pages to use
