@@ -121,6 +121,8 @@ menu:
     link: '/search/'
   - label: 'Reflections'
     sub:
+      - label: 'Protesta, poesía y resistencia - Carolina Alonso'
+        link: '/reflections/alonso/'
       - label: 'Ellos nos llevan, nos guían - Lizbeth De La Cruz'
         link: '/reflections/delacruz/'
       - label: 'Essential Resource - Nathan Ellstrand'
