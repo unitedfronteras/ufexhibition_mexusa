@@ -121,16 +121,22 @@ menu:
     link: '/search/'
   - label: 'Reflections'
     sub:
+      - label: 'Ellos nos llevan, nos guían - Lizbeth De La Cruz'
+        link: '/reflections/delacruz/'
       - label: 'Essential Resource - Nathan Ellstrand'
         link: '/reflections/ellstrand/'
       - label: 'Herida Abierta - Jorge Gómez'
         link: '/reflections/gomez/'
       - label: 'Participatory Design - Laura Gonzales'
         link: '/reflections/gonzales/'
+      - label: 'Recording Conversations - Shane Lynch'
+        link: '/reflections/lynch/'
+      - label: 'Borderlands DH Issue - Reviews in DH'
+        link: 'https://reviewsindh.pubpub.org/v1-n8-9'
       - label: 'Border Stories - Annette Zapata'
         link: '/reflections/zapata/'
   - label: 'Español'
-    link: '/spanish/'
+    link: 'https://unitedfronteras.github.io/ufexhibicion_mexeua/https://unitedfronteras.github.io/ufexhibicion_mexeua/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
