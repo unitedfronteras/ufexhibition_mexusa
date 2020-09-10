@@ -9,13 +9,20 @@ permalink: /reflections/delacruz/
 En el texto fronterizo canónico, *Borderlands/La frontera: La nueva mestiza* (1987), Gloria Anzaldúa hace referencia a *Los Antiguos Mexicanos: A través de sus crónicas y cantares* (1961) de Miguel León-Portilla citando las líneas,
  
 *“Los que están mirando (leyendo),
+
 los que cuentan (o refieren lo que leen).
+
 los que vuelven ruidosamente las hojas de los códices.
+
 Los que tienen en su poder
+
 la tinta negra y roja (la sabiduría)
+
 y lo pintado,
-**ellos nos llevan, nos guían,
-nos dicen el camino”*** (125)
+
+**ellos nos llevan, nos guían,**
+
+**nos dicen el camino”** (125)
 
 Por lo general, el texto de Anzaldúa se reconoce ampliamente al leer la frontera como "la herida abierta" (11) pero al hacer fusión las líneas de León-Portilla en su deliberación da oportunidad de enfocarnos en no solamente la frontera como entidad. Sino que, ofrece la oportunidad de centrar nuestra atención a quienes ocupan este espacio violentado y de escuchar la sabiduría que narran, escriben y pintan. De esta manera, nos podemos dejar guiar por su conocimiento. Logrando por consiguiente imaginar un futuro que toma en cuenta y es construido por su saber.  
  
