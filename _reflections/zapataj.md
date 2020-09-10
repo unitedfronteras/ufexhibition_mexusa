@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "DH and Uncovering Border/Frontera"
+title: "DH and Uncovering Interior Border/Frontera"
 permalink: /reflections/zapataj/
 ---
 
