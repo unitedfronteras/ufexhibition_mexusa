@@ -24,8 +24,10 @@ Me gustaría terminar recordando que desde el siglo diecinueve la literatura, a 
 
 
 
- Referencias:
-Anzaldúa, Gloria. *Borderlands/ La Frontera: The New Mestiza*. San Francisco: Spinsters/Aunt Lute, 2007. Print. 
+**Referencias:**
+
+Anzaldúa, Gloria. *Borderlands/ La Frontera: The New Mestiza*. San Francisco: Spinsters/Aunt Lute, 2007. Print.
+
 Gomez, Celina. Celina Gomez Performs her Poem "Process for Undocumented Students". YouTube, uploaded by *Poets Against Walls*, 17 Jan. 2018, [youtu.be/pfp3asTqhk0](https://www.youtube.com/watch?v=pfp3asTqhk0&ab_channel=PoetsAgainstWalls).
 
 
