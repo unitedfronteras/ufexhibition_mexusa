@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Borderlands (digital) Histories"
+title: "DH and Uncovering Border/Frontera"
 permalink: /reflections/zapataj/
 ---
 
