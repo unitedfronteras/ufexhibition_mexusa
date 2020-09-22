@@ -50,7 +50,7 @@ and support immigrant newcomers in rural areas.” 2
 life in a myriad of ways. *Southern Colorado Borderlands* centers on historical education for the
 public. Together, *Southern Colorado Borderlands* and *Rural Immigration Network* reveal the
 broad geographies and time spans borderlands and Latina/o scholars must consider. Ultimately,
-by interconnect scholarship and digital tools, these projects demonstrate the academic, social,
+by interconnecting scholarship and digital tools, these projects demonstrate the academic, social,
 and cultural potential of digital humanities.
 
 
